@@ -9,7 +9,6 @@
     CompatiblePSEditions  = 'Core'
     RequiredAssemblies    = @(
         'Mono.Posix.NETStandard.dll'
-        'MonoPosixHelper.dll'
     )
     FunctionsToExport     = '*'
     CmdletsToExport       = '*'
