@@ -8,7 +8,6 @@
     PowerShellVersion     = '6.0.0'
     CompatiblePSEditions  = 'Core'
     RequiredAssemblies    = @(
-        'libMonoPosixHelper.dll'
         'Mono.Posix.NETStandard.dll'
         'MonoPosixHelper.dll'
     )
